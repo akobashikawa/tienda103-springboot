@@ -1,4 +1,4 @@
-package com.example.tienda102.ventas.application;
+package com.example.tienda103.ventas.application;
 
 import static org.junit.jupiter.api.Assertions.*;
 import static org.mockito.Mockito.*;

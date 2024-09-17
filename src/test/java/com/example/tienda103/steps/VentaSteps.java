@@ -1,4 +1,4 @@
-package com.example.tienda102.steps;
+package com.example.tienda103.steps;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;
